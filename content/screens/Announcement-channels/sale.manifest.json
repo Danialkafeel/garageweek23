@@ -1,0 +1,55 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1690278908938,
+  "entries": [
+    {
+      "path": "/content/screens/Announcement-channels/sale.html",
+      "timestamp": 1690278908721
+    },
+    {
+      "path": "/scripts/lib-franklin.js",
+      "timestamp": 1690263832000
+    },
+    {
+      "path": "/scripts/scripts.js",
+      "timestamp": 1690263832000
+    },
+    {
+      "path": "/styles/styles.css",
+      "timestamp": 1690263832000
+    },
+    {
+      "path": "/scripts/delayed.js",
+      "timestamp": 1690263832000
+    },
+    {
+      "path": "/blocks/columns/columns.css",
+      "timestamp": 1690263831000
+    },
+    {
+      "path": "/blocks/columns/columns.js",
+      "timestamp": 1690263831000
+    },
+    {
+      "path": "/blocks/menutable/menutable.js",
+      "timestamp": 1690263832000
+    },
+    {
+      "path": "/blocks/menutable/menutable.css",
+      "timestamp": 1690263832000
+    },
+    {
+      "path": "/blocks/menutable/qrcode.min.js",
+      "timestamp": 1690263832000
+    }
+  ]
+}
