@@ -9,6 +9,10 @@ indices:
         select: head > meta[property="og:title"]
         value: |
           attribute(el, 'content')
+      announcement-channel:
+        select: head > meta[property="announcement-channel"]
+        value: |
+          attribute(el, 'content')
       externalId:
         select: main
         value: path
