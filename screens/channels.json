@@ -15,7 +15,8 @@
       ],
       "externalId": "/content/screens/menus/snack-sprint",
       "title": "Snack Sprint",
-      "liveUrl": "https://main--garageweek23--danialkafeel.hlx.live/content/screens/menus/snack-sprint.html"
+      "liveUrl": "https://main--garageweek23--danialkafeel.hlx.live/content/screens/menus/snack-sprint.html",
+      "announcement_channel": "false"
     },
     {
       "manifestPath": "/content/screens/Announcement-channels/sale.manifest.json",
@@ -32,7 +33,8 @@
       ],
       "externalId": "/content/screens/Announcement-channels/sale",
       "title": "Sale announcement",
-      "liveUrl": "https://main--garageweek23--danialkafeel.hlx.live/content/screens/Announcement-channels/sale.html"
+      "liveUrl": "https://main--garageweek23--danialkafeel.hlx.live/content/screens/Announcement-channels/sale.html",
+      "announcement_channel": "true"
     }
   ],
   "metadata": {
