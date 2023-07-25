@@ -32,6 +32,10 @@ indices:
         select: head > link[rel="canonical"]
         value: |
           attribute(el, 'href')
+      announcement-channel:
+        select: head > meta[name="announcement-channel"]
+        value:  |
+          attribute(el, 'content')
   channel-manifest:
     include:
       - '/content/screens/**'
@@ -67,9 +71,5 @@ indices:
           attribute(el, 'src')
       background:
         select: head > meta[name="background"]
-        value:  |
-          attribute(el, 'content')
-      announcement-channel:
-        select: head > meta[name="announcement-channel"]
         value:  |
           attribute(el, 'content')
