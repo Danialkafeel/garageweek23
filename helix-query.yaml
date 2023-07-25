@@ -32,7 +32,7 @@ indices:
         select: head > link[rel="canonical"]
         value: |
           attribute(el, 'href')
-      announcement-channel:
+      announcement_channel:
         select: head > meta[name="announcement-channel"]
         value:  |
           attribute(el, 'content')
