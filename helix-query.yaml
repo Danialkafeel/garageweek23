@@ -47,8 +47,7 @@ indices:
           attribute(el, 'content')
       announcement-channel:
         select: head > meta[property="announcement-channel"]
-        value: |
-          attribute(el, 'content')
+        value: path
       lastModified:
         select: none
         value: |
