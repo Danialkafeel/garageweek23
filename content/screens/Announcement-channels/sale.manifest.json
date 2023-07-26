@@ -1,10 +1,9 @@
 {
   "version": "3.0",
-  "timestamp": 1690366581836,
+  "timestamp": 1690368227217,
   "entries": [
     {
-      "path": "/content/screens/Announcement-channels/sale.html",
-      "timestamp": 1690366581349
+      "path": "/content/screens/Announcement-channels/sale.html"
     },
     {
       "path": "/scripts/lib-franklin.js",
