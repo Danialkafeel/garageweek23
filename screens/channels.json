@@ -2,12 +2,12 @@
   "channels": [
     {
       "manifestPath": "/content/screens/menus/snack-sprint.manifest.json",
-      "lastModified": "2023-07-25T05:43:52.000Z",
+      "lastModified": "2023-07-26T10:55:03.917Z",
       "externalId": "/content/screens/menus/snack-sprint",
       "title": "Snack Sprint",
       "liveUrl": "https://main--garageweek23--danialkafeel.hlx.live/content/screens/menus/snack-sprint.html",
       "announcement_channel": "false",
-      "start_time": "",
+      "start_time": "20-08-2023",
       "end_time": "",
       "more_info_url": ""
     },
