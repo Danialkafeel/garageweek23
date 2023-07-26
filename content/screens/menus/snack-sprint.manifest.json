@@ -1,19 +1,10 @@
 {
   "version": "3.0",
-  "contentDelivery": {
-    "providers": [
-      {
-        "name": "franklin",
-        "endpoint": "/"
-      }
-    ],
-    "defaultProvider": "franklin"
-  },
-  "timestamp": 1690356336075,
+  "timestamp": 1690366580987,
   "entries": [
     {
       "path": "/content/screens/menus/snack-sprint.html",
-      "timestamp": 1690280051000
+      "timestamp": 1690366579821
     },
     {
       "path": "/scripts/lib-franklin.js",
@@ -26,10 +17,6 @@
     {
       "path": "/styles/styles.css",
       "timestamp": 1690263832000
-    },
-    {
-      "path": "/content/screens/menus/media_17710df9a502f677386e8eec1b0c60148bb497885.png?width=750&format=png&optimize=medium",
-      "hash": "17710df9a502f677386e8eec1b0c60148bb497885"
     },
     {
       "path": "/content/screens/menus/media_190b9ec985e87e614aad98bae3bfbe2561bf1d322.png?width=750&format=png&optimize=medium",
@@ -71,5 +58,14 @@
       "path": "/blocks/menutable/qrcode.min.js",
       "timestamp": 1690263832000
     }
-  ]
+  ],
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  }
 }

@@ -1,19 +1,10 @@
 {
   "version": "3.0",
-  "contentDelivery": {
-    "providers": [
-      {
-        "name": "franklin",
-        "endpoint": "/"
-      }
-    ],
-    "defaultProvider": "franklin"
-  },
-  "timestamp": 1690356336185,
+  "timestamp": 1690366581836,
   "entries": [
     {
       "path": "/content/screens/Announcement-channels/sale.html",
-      "timestamp": 1690356336084
+      "timestamp": 1690366581349
     },
     {
       "path": "/scripts/lib-franklin.js",
@@ -51,5 +42,14 @@
       "path": "/blocks/menutable/qrcode.min.js",
       "timestamp": 1690263832000
     }
-  ]
+  ],
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  }
 }
