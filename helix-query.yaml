@@ -36,6 +36,18 @@ indices:
         select: head > meta[name="announcement-channel"]
         value:  |
           attribute(el, 'content')
+      start_time:
+        select: head > meta[name="start-time"]
+        value:  |
+          attribute(el, 'content')
+      end_time:
+        select: head > meta[name="end-time"]
+        value:  |
+          attribute(el, 'content')
+      more_info_url:
+        select: head > meta[name="more-info-url"]
+        value:  |
+          attribute(el, 'content')
   channel-manifest:
     include:
       - '/content/screens/**'
