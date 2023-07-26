@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1690286103590,
+  "timestamp": 1690356336185,
   "entries": [
     {
       "path": "/content/screens/Announcement-channels/sale.html",
-      "timestamp": 1690278915000
+      "timestamp": 1690356336084
     },
     {
       "path": "/scripts/lib-franklin.js",
