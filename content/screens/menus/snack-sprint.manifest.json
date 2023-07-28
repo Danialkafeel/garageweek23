@@ -1,10 +1,9 @@
 {
   "version": "3.0",
-  "timestamp": 1690368904180,
+  "timestamp": 1690537229739,
   "entries": [
     {
-      "path": "/content/screens/menus/snack-sprint.html",
-      "timestamp": 1690368903917
+      "path": "/content/screens/menus/snack-sprint.html"
     },
     {
       "path": "/scripts/lib-franklin.js",

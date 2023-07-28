@@ -1,9 +1,10 @@
 {
   "version": "3.0",
-  "timestamp": 1690368904642,
+  "timestamp": 1690537230383,
   "entries": [
     {
-      "path": "/content/screens/Announcement-channels/sale.html"
+      "path": "/content/screens/Announcement-channels/sale.html",
+      "timestamp": 1690537230060
     },
     {
       "path": "/scripts/lib-franklin.js",
@@ -16,6 +17,10 @@
     {
       "path": "/styles/styles.css",
       "timestamp": 1690263832000
+    },
+    {
+      "path": "/content/screens/Announcement-channels/media_11edb31eabd3ee25a7c08c7cb75bc56cc439f1aff.jpeg?width=750&format=jpeg&optimize=medium",
+      "hash": "11edb31eabd3ee25a7c08c7cb75bc56cc439f1aff"
     },
     {
       "path": "/scripts/delayed.js",
