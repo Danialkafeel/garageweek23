@@ -1,10 +1,10 @@
 {
   "version": "3.0",
-  "timestamp": 1690554439350,
+  "timestamp": 1690814996877,
   "entries": [
     {
       "path": "/content/screens/Announcement-channels/sale.html",
-      "timestamp": 1690554438956
+      "timestamp": 1690814996661
     },
     {
       "path": "/scripts/lib-franklin.js",
@@ -16,7 +16,7 @@
     },
     {
       "path": "/styles/styles.css",
-      "timestamp": 1690263832000
+      "timestamp": 1690814852000
     },
     {
       "path": "/content/screens/Announcement-channels/media_115bf65412c4b9b982c9bfc4ae65819ca8a75459e.jpeg?width=750&format=jpeg&optimize=medium",

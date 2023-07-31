@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/menus/snack-sprint.manifest.json",
-      "lastModified": "2023-07-25T05:43:52.000Z",
+      "lastModified": "2023-07-31T14:47:32.000Z",
       "externalId": "/content/screens/menus/snack-sprint",
       "title": "Snack Sprint",
       "liveUrl": "https://main--garageweek23--danialkafeel.hlx.live/content/screens/menus/snack-sprint.html",
@@ -13,14 +13,14 @@
     },
     {
       "manifestPath": "/content/screens/Announcement-channels/sale.manifest.json",
-      "lastModified": "2023-07-28T14:27:18.956Z",
+      "lastModified": "2023-07-31T14:49:56.661Z",
       "externalId": "/content/screens/Announcement-channels/sale",
       "title": "Sale announcement",
       "liveUrl": "https://main--garageweek23--danialkafeel.hlx.live/content/screens/Announcement-channels/sale.html",
       "announcementChannel": true,
       "start_time": "26-07-2023",
       "end_time": "27-07-2023",
-      "more_info_url": "https://www.ikea.com/"
+      "more_info_url": "https://ikea.aem-screens.com/"
     }
   ],
   "metadata": {
